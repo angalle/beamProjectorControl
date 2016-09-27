@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartRemoteControl</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ip">IP</string>
+    <string name="port">PORT</string>
+    <string name="name">NAME</string>
+    <string name="button1">Connect!</string>
+    <string name="button2">1번방법</string>
+    <string name="button3">2번방법</string>
+    <string name="button4">3번방법</string>
+    <string name="button5">View info!</string>
+    <string name="button6">Msg</string>
+</resources>
